@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Sexy stuff"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- "Did the whole bloody thing"
 - "Equal contribution"
 
 date: "2013-01-08"
